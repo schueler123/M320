@@ -1,0 +1,15 @@
+C:\Repo\School\m320\M320\M320_ConsoleApps\MyConsoleApp_001\bin\Debug\net8.0\MyConsoleApp_001.exe
+C:\Repo\School\m320\M320\M320_ConsoleApps\MyConsoleApp_001\bin\Debug\net8.0\MyConsoleApp_001.deps.json
+C:\Repo\School\m320\M320\M320_ConsoleApps\MyConsoleApp_001\bin\Debug\net8.0\MyConsoleApp_001.runtimeconfig.json
+C:\Repo\School\m320\M320\M320_ConsoleApps\MyConsoleApp_001\bin\Debug\net8.0\MyConsoleApp_001.dll
+C:\Repo\School\m320\M320\M320_ConsoleApps\MyConsoleApp_001\bin\Debug\net8.0\MyConsoleApp_001.pdb
+C:\Repo\School\m320\M320\M320_ConsoleApps\MyConsoleApp_001\obj\Debug\net8.0\MyConsoleApp_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\School\m320\M320\M320_ConsoleApps\MyConsoleApp_001\obj\Debug\net8.0\MyConsoleApp_001.AssemblyInfoInputs.cache
+C:\Repo\School\m320\M320\M320_ConsoleApps\MyConsoleApp_001\obj\Debug\net8.0\MyConsoleApp_001.AssemblyInfo.cs
+C:\Repo\School\m320\M320\M320_ConsoleApps\MyConsoleApp_001\obj\Debug\net8.0\MyConsoleApp_001.csproj.CoreCompileInputs.cache
+C:\Repo\School\m320\M320\M320_ConsoleApps\MyConsoleApp_001\obj\Debug\net8.0\MyConsoleApp_001.sourcelink.json
+C:\Repo\School\m320\M320\M320_ConsoleApps\MyConsoleApp_001\obj\Debug\net8.0\MyConsoleApp_001.dll
+C:\Repo\School\m320\M320\M320_ConsoleApps\MyConsoleApp_001\obj\Debug\net8.0\refint\MyConsoleApp_001.dll
+C:\Repo\School\m320\M320\M320_ConsoleApps\MyConsoleApp_001\obj\Debug\net8.0\MyConsoleApp_001.pdb
+C:\Repo\School\m320\M320\M320_ConsoleApps\MyConsoleApp_001\obj\Debug\net8.0\MyConsoleApp_001.genruntimeconfig.cache
+C:\Repo\School\m320\M320\M320_ConsoleApps\MyConsoleApp_001\obj\Debug\net8.0\ref\MyConsoleApp_001.dll
