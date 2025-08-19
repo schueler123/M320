@@ -8,21 +8,57 @@ namespace GgtKgv
 {
     internal class MyMath
     {
-        public static int Calc_ggT(int a, int b)
+        public static int Calc_ggT(int zahl1, int zahl2)
         {
+
             int z;
-            while (b != 0)
+            while (zahl2 != 0)
             {
-                z = a % b;
-                a = b;
-                b = z;
+                z = zahl1 % zahl2;
+                zahl1 = zahl2;
+                zahl2 = z;
             }
-            return a;
+            return zahl1;
         }
 
-        public static int Calc_kgV(int a, int b)
+        public static int Calc_ggT_r(int zahl1, int zahl2)
         {
-            return (a * b) / Calc_ggT(a, b);
+            if (zahl2 == 0) return zahl1;
+            return Calc_ggT_r(zahl2, zahl1 % zahl2);
         }
+
+        public static int Calc_kgV(int zahl1, int zahl2)
+        {
+            return (zahl1 * zahl2) / Calc_ggT(zahl1, zahl2);
+        }
+
+        public static double ArrayMean(int[] arr)
+        {
+            double sum = 0;
+            foreach (int x in arr) sum += x;
+            return sum / arr.Length;
+        }
+
+        public static int ArrayMin(int[] arr)
+        {
+            int min = arr[0];
+            foreach (int x in arr) if (x < min) min = x;
+            return min;
+        }
+
+        public static int ArrayMax(int[] arr)
+        {
+            int max = arr[0];
+            foreach (int x in arr) if (x > max) max = x;
+            return max;
+        }
+
+        public static void Swap(ref int zahl1, ref int zahl2)
+        {
+            int tmp = zahl1;
+            zahl1 = zahl2;
+            zahl2 = tmp;
+        }
+
     }
 }
